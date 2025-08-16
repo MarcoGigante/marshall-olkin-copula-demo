@@ -1,6 +1,6 @@
 # marshall-olkin-copula-demo
 
-A concise demonstration of the Marshall–Olkin bivariate exponential model, used in lectures taught by Professor Fabio Gobbi at the University of Siena. This experiment illustrates how systemic and idiosyncratic hazard rates determine joint survival and default probabilities.
+A concise demonstration of the Marshall–Olkin bivariate exponential model, presented in lectures by Professor Fabio Gobbi as part of the Credit Risk Modeling course at the University of Siena, illustrates how systemic and idiosyncratic hazard rates shape joint survival and default probabilities.
 
 ## References
 - Gobbi, F., Kolev, N., & Mulinacci, S. (2019). Joint Life Insurance Pricing Using Extended Marshall–Olkin Models. *ASTIN Bulletin*, 49(2), 409–432.
